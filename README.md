@@ -1,1 +1,1 @@
-# runicbot-site
+# RunicBot Site
